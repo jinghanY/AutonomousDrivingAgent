@@ -13,7 +13,7 @@ Teammates: Adith Boolor and Karthik Garimella.
 |<img src="media/driving.gif" height="420" width="953">|
 
 ## Train Jane 
-|<center>Turn Left</center> | <center>Go Straight</center>|<center>Turn Right</center> |
+|<center>Left View</center> | <center>Center View</center>|<center>Right View</center> |
 | :---: | :---: | :---: |
 |<img src="media/left.png" height="200" width="300"> | <img src="media/center.png" height="200" width="300"> | <img src="media/right.png" height="200" width="300"> |
 
