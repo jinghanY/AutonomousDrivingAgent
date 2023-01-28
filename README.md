@@ -1,6 +1,6 @@
 # CARLA Autonomous Driving Challenge 2019 (CVPR CARLA AD Challenge Workshop)
 
-[CARLA Challenge Results](http://arxiv.org/abs/2010.08844](https://carlachallenge.org/results-challenge-2019/)
+[CARLA Challenge Results](https://carlachallenge.org/results-challenge-2019/)
 
 
 We built a vision-based end to end self-driving agent,Tarzan (nickname Jane), for CVPR CARLA AD Challenge Workshop 2019. We took third place in CARLA Autonomous Driving Challenge 2019. We gave an oral presentation about Tarzan at CVPR 2019 in Long Beach, California. 
