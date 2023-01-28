@@ -7,13 +7,12 @@ We built a vision-based end to end self-driving agent,Tarzan (nickname Jane), fo
 Teammates: Adith Boolor and Karthik Garimella.
 
 
-
+## Test Jane
 |<center>Jane on the road</center> | 
 | :---: |
 |<img src="media/driving.gif" height="420" width="953">|
 
-
-|<center>Turn Left</center> | <center>Go Straight</center>|<center>Turn Right</center> |
+## Train Jane 
 | :---: | :---: | :---: |
 |<img src="media/left.png" height="200" width="300"> | <img src="media/center.png" height="200" width="300"> | <img src="media/right.png" height="200" width="300"> |
 
