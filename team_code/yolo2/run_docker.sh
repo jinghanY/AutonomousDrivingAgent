@@ -1,0 +1,1 @@
+sudo nvidia-docker run -it -e NVIDIA_VISIBLE_DEVICES=4,5,6,7 --rm --user root --net host -v $(pwd)/:/wustlcarla -e NB_UID=$(id -u) -e DISPLAY -v /tmp/.X11-unix:/tmp/.X11-unix:rw -e NB_GID=$(id -g) -e GRANT_SUDO=yes wustlcarla:v1 /bin/bash
