@@ -16,7 +16,7 @@ We were able to successfully create a model named Jane, which helped us secure t
 
 |<center>Conceptual Overview</center> | 
 | :---: |
-<video src="media/stop.mp4" controls="controls" style="max-width: 730px;">
+<video src="media/driving.gif" controls="controls" style="max-width: 730px;">
 </video>
 
 |<center>Turn Left</center> | <center>Go Straight</center>|<center>Turn Right</center> |
