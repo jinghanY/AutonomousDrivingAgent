@@ -8,7 +8,7 @@ Teammates: Adith Boolor and Karthik Garimella.
 
 
 
-|<center>Driving with Jane</center> | 
+|<center>Jane on the road</center> | 
 | :---: |
 |<img src="media/driving.gif" height="420" width="953">|
 
