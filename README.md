@@ -1,6 +1,3 @@
-# wustlcarla
-
-
 # CARLA Autonomous Driving Challenge 2019 (CVPR CARLA AD Challenge Workshop 2019)
 [[arXiv]]() **extended version**: to be appear
 
